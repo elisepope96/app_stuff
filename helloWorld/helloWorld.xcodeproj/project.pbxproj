@@ -12,6 +12,10 @@
 		ED42451C2288F32B007FD177 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED42451A2288F32B007FD177 /* Main.storyboard */; };
 		ED42451E2288F32E007FD177 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED42451D2288F32E007FD177 /* Assets.xcassets */; };
 		ED4245212288F32E007FD177 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED42451F2288F32E007FD177 /* LaunchScreen.storyboard */; };
+		ED4245292288F46E007FD177 /* bits.png in Resources */ = {isa = PBXBuildFile; fileRef = ED4245282288F46D007FD177 /* bits.png */; };
+		ED42452B2288FEBB007FD177 /* greyhound.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ED42452A2288FEBB007FD177 /* greyhound.jpg */; };
+		ED42452D2288FF6A007FD177 /* blue.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = ED42452C2288FF6A007FD177 /* blue.jpeg */; };
+		ED42452F2289020C007FD177 /* smiley.png in Resources */ = {isa = PBXBuildFile; fileRef = ED42452E2289020C007FD177 /* smiley.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		ED42451D2288F32E007FD177 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED4245202288F32E007FD177 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED4245222288F32E007FD177 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED4245282288F46D007FD177 /* bits.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bits.png; path = ../../../../Downloads/bits.png; sourceTree = "<group>"; };
+		ED42452A2288FEBB007FD177 /* greyhound.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = greyhound.jpg; path = "../../Food Tracker/BreedRater/Assets.xcassets/Image.imageset/greyhound.jpg"; sourceTree = "<group>"; };
+		ED42452C2288FF6A007FD177 /* blue.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = blue.jpeg; path = ../../../../Downloads/blue.jpeg; sourceTree = "<group>"; };
+		ED42452E2289020C007FD177 /* smiley.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smiley.png; path = ../../../../Downloads/smiley.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,7 +64,11 @@
 			children = (
 				ED4245162288F32B007FD177 /* AppDelegate.swift */,
 				ED4245182288F32B007FD177 /* ViewController.swift */,
+				ED42452E2289020C007FD177 /* smiley.png */,
 				ED42451A2288F32B007FD177 /* Main.storyboard */,
+				ED42452C2288FF6A007FD177 /* blue.jpeg */,
+				ED42452A2288FEBB007FD177 /* greyhound.jpg */,
+				ED4245282288F46D007FD177 /* bits.png */,
 				ED42451D2288F32E007FD177 /* Assets.xcassets */,
 				ED42451F2288F32E007FD177 /* LaunchScreen.storyboard */,
 				ED4245222288F32E007FD177 /* Info.plist */,
@@ -123,8 +135,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED4245212288F32E007FD177 /* LaunchScreen.storyboard in Resources */,
+				ED4245292288F46E007FD177 /* bits.png in Resources */,
+				ED42452B2288FEBB007FD177 /* greyhound.jpg in Resources */,
 				ED42451E2288F32E007FD177 /* Assets.xcassets in Resources */,
+				ED42452F2289020C007FD177 /* smiley.png in Resources */,
 				ED42451C2288F32B007FD177 /* Main.storyboard in Resources */,
+				ED42452D2288FF6A007FD177 /* blue.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
